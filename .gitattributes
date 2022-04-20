@@ -1,0 +1,2 @@
+# This is important, or the unit tests fail on a Windows box.
+*.csv text eol=lf
